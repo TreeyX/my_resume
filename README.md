@@ -1,2 +1,2 @@
 # my_resume
-meu web curriculo
+meu web curriculo que desenvolvi
